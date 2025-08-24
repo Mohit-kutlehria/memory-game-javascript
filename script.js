@@ -1,3 +1,4 @@
+// Memory Matching Game logic using JavaScript
 const cardArray = [
   {
     name: 'fries',
@@ -21,7 +22,7 @@ const cardArray = [
   },
   {
     name: 'pizza',
-    img: 'images/pizza.png'
+    img: 'images/pizza1.png'
   },
   {
     name: 'fries',
@@ -45,7 +46,7 @@ const cardArray = [
   },
   {
     name: 'pizza',
-    img: 'images/pizza.png'
+    img: 'images/pizza1.png'
   }
 ]
 
